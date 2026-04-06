@@ -1,0 +1,6 @@
+flask>=3.0
+flask-cors>=4.0
+python-dotenv>=1.0
+oasis-ai>=0.1
+camel-ai>=0.2
+openai>=1.0
